@@ -15,7 +15,7 @@ export const navLinks: NavLink[] = [
 
 export const skills: string[] = [
     'C', 'AI & Data Engineering', 'Software Architecture', 'Firebase', 'Canva', 
-    'Google AI', 'Prompt Design', 'Public Speaking', 'Git & GitHub' , 'Python' ,'Tyepscript'
+    'Google AI', 'Prompt Design', 'TinkerCAD', 'Git & GitHub' , 'Python' ,'Tyepscript'
 ];
 
 export const projects: Project[] = [
@@ -79,7 +79,7 @@ export const education: Experience[] = [
     },
     {
         date: '2022 - 2024',
-        title: 'Intermediate (MPC)',
+        title: '12th Class',
         company: 'Vignan Co-operative Junior College',
         description: 'Completed higher secondary education with a focus on Mathematics, Physics, and Chemistry, achieving a grade of 97.2%.',
         icon: React.createElement(GraduationCapIcon)
