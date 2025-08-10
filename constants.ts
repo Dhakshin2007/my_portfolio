@@ -28,6 +28,14 @@ export const projects: Project[] = [
         codeUrl: 'https://github.com/Dhakshin2007/Tapless_Pay',
     },
     {
+        title: 'QrGo - Event Hosting & Ticket Management',
+        description: 'With QrGo, event organizers can generate tickets, verify attendees, and track participation — all in one streamlined platform. Built with Gemini 2.5 Pro & ChatGPT 5 as Coding Companions',
+        image: 'https://i.postimg.cc/qqNh1hD9/Google-AI-Studio-2025-08-09-T14-17-15-618-Z.png',
+        tags: ['TypeScript ( TSX / TS )', 'Firebase', 'Google AI', 'Event Booking' , 'Supabase'],
+        liveUrl: 'https://qrgo-weld.vercel.app/#/',
+        codeUrl: '#',
+    },
+    {
         title: 'TCA Website',
         description: 'Designed and redacted visual content for the Telugu Culture Association at IIT Ropar, enhancing public engagement through creative graphics using Canva. Website showcases the association\'s activities and events.',
         image: 'https://picsum.photos/seed/tca/600/400',
